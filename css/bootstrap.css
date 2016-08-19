@@ -318,12 +318,14 @@ th {
 }
 .glyphicon-star:before {
   content: "\e006";
+    color:aliceblue;
 }
 .glyphicon-star-empty:before {
   content: "\e007";
 }
 .glyphicon-user:before {
   content: "\e008";
+    color:aliceblue;
 }
 .glyphicon-film:before {
   content: "\e009";
@@ -339,6 +341,7 @@ th {
 }
 .glyphicon-ok:before {
   content: "\e013";
+    color:aliceblue;
 }
 .glyphicon-remove:before {
   content: "\e014";

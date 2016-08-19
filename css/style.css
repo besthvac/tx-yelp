@@ -36,13 +36,12 @@ a:hover {
   width: 30%;
 }
 .header-right {
-  float: right;
-  width: 70%;
+  width: 100%;
+    background-color: black;
 }
 .top-nav {
-  float: left;
-  width: 82%;
-  text-align: right;
+  width: 100%;
+  text-align: center;
 }
 .top-nav-right {
   float: right;
@@ -65,7 +64,7 @@ span.menu {
   display: none;
 }
 .header-main {
-  padding: 1em 0em 1em 0em;
+  padding: 1em 0em 7.5em 0em;
 }
 .top-nav ul {
   list-style: none;
@@ -86,12 +85,12 @@ span.menu {
 	color:#fff;
 }
 .banner {
-  background: url(../images/hvac/_CheckingGauges.jpg)no-repeat;
+  background: url(../images/hvac/hvac-repair-service.jpg)no-repeat;
   min-height: 855px;
   background-size: cover;
 }
 .banner-bottom {
-  padding: 15em 0em 0em 0em;
+  padding: 35em 0em 0em 0em;
   text-align: center;
 }
 .banner-bottom h4 {
@@ -1637,3 +1636,6 @@ span.devide-line {
 }
 }
 /*--media quries end here--*/
+.banner-top {
+    
+}
